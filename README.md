@@ -27,7 +27,7 @@
 | **Nimble** *(private, client work)* | E-commerce platform backend with a self-serve portal | Django · DRF · Celery · Redis · PostgreSQL |
 | **Carvinu** *(private, client work)* | Online car-finder marketplace with an admin dashboard and CMS | Django · DRF · Wagtail · Celery · Docker · AWS ECR |
 | **Workon** *(in progress)* | HR platform for employee records, payroll, attendance, leave and recruitment | NestJS · TypeScript · PostgreSQL · Jest |
-| [**Foodie App**](https://github.com/6802ali/Foodie-App) | Restaurant app with ordering, table reservations, reviews, real-time chat and an admin dashboard | Flutter · Riverpod · Firebase |
+| [**Foodie App**](https://github.com/aliismailx/Foodie-App) | Restaurant app with ordering, table reservations, reviews, real-time chat and an admin dashboard | Flutter · Riverpod · Firebase |
 
 ### 🛠️ Tech stack
 
